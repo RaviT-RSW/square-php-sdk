@@ -428,6 +428,6 @@ You can also use the Square API to create applications or services that work wit
 [Transactions]: doc/apis/transactions.md
 [Sites]: doc/apis/sites.md
 [Snippets]: doc/apis/snippets.md
-[Cards]: doc/api/cards.md
-[Gift Cards]: doc/api/gift-cards.md
-[Gift Card Activities]: doc/api/gift-card-activities.md
+[Cards]: doc/apis/cards.md
+[Gift Cards]: doc/apis/gift-cards.md
+[Gift Card Activities]: doc/apis/gift-card-activities.md
